@@ -1,1 +1,5 @@
-main(List<String> args) {}
+import 'dart:async';
+
+main(List<String> args) {
+  PrintHandler();
+}
